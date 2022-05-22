@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahador</h1>
 
 ![BahadorGh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahadorGh&hide=prs&show_icons=true&theme=omni)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BahadorGh&label=Profile%20views&color=0e75b6&style=flat" alt="BahadorGh" /> </p>
 
 - 📫 How to reach me **BahadorGhadamkheir@protonmail.com**
 
