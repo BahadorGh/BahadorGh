@@ -28,7 +28,7 @@
 <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" alt="solidity" width="40" height="40"/> </a>
 <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://trufflesuite.com/img/truffle-logomark.svg" alt="truffle" width="40" height="40"/> </a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="hardhat.svg" alt="hardhat" width="40" height="40"/> </a> 
-<a href="https://readthedocs.org/projects/web3js/" target="_blank" rel="noreferrer"> <img src="web3js.svg" alt="Web3.js" width="70" height="70"/> </a> 
+<a href="https://readthedocs.org/projects/web3js/" target="_blank" rel="noreferrer"> <img src="web3js.svg" alt="Web3.js" width="40" height="40"/> </a> 
 
 </p>
 
