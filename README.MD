@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js, Solidity and React**
 
-- 👨‍💻 All of my class projects are(and will be) available at [https://github.com/Bahador](https://github.com/BahadorGh)
+- 👨‍💻 All of my class projects are(and will be) available at [https://github.com/BahadorGh](https://github.com/BahadorGh)
 
 - 📫 How to reach me **BahadorGhadamkheir@protonmail.com**
 
