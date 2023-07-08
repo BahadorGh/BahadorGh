@@ -3,9 +3,9 @@
 ![BahadorGh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahadorGh&hide=prs&show_icons=true&theme=omni)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BahadorGh&label=Profile%20views&color=0e75b6&style=flat" alt="BahadorGh" /> </p>
 
-- 🔭 I’m currently working on [TokenKhan's projects](https://TokenKhan.com/)
+- 🔭 I’m currently working on [TokenKhan](https://TokenKhan.com/)
 
-- 🌱 I’m currently learning **Node.js, Solidity and React**
+- 🌱 I’m currently learning **Node.js and React. also solidity is my everyday learning ofcourse!**
 
 - 👨‍💻 All of my class projects are(and will be) available at [https://github.com/BahadorGh](https://github.com/BahadorGh)
 
